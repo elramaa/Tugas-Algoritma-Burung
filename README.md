@@ -1,3 +1,10 @@
+> [!NOTE]
+> Soal diambil dari [Buku Siswa Informatika Kelas XI Kemdikbud](https://static.buku.kemdikbud.go.id/content/pdf/bukuteks/kurikulum21/Informatika-BS-KLS-XI.pdf) Halaman 53 - 58
+
+---
+
+<br><br>
+
 # Subproblem 1: Menghitung Jarak Horizontal Terjauh
 
 #### Deskripsi:
@@ -15,6 +22,9 @@ Keluaran berupa bilangan yang menunjukkan jarak terjauh Boro mendarat di tanah.
 |---|---|
 | 37<br>10 | 9.6 |
 
+> [!NOTE]
+> [View the solution](problem1.cpp)
+
 # Subproblem 2: Menghitung Waktu
 
 #### Deskripsi:
@@ -31,6 +41,9 @@ Keluaran berupa bilangan yang menunjukkan waktu yang ditempuh Boro untuk mencapa
 | Contoh Masukan | Contoh Keluaran |
 | --- | --- |
 | 37<br>100 | 12.036 |
+
+> [!NOTE]
+> [View the solution](problem2.cpp)
 
 # Subproblem 3: Prediksi Ketinggian Dicapai Boro
 
@@ -50,6 +63,9 @@ Keluaran berupa bilangan yang menunjukkan status ketinggian Boro dibandingkan de
 | 37<br>100<br>100 | Status: 1<br>Ketinggian: 181.09 |
 | 37<br>100<br>200 | Status: 0<br>Ketinggian: 181.09 |
 
+> [!NOTE]
+> [View the solution](problem3.cpp)
+
 # Subproblem 4: Prediksi Ketinggian Dicapai Boro dan Teman-temannya
 
 #### Deskripsi:
@@ -67,3 +83,6 @@ Keluaran berupa urutan burung lalu bilangan yang menunjukkan status ketinggian b
 | --- | --- |
 | 1<br>37<br>100<br>100 | Status Burung 1: 1<br>Ketinggian: 181.09 |
 | 2<br>37<br>100<br>100<br>37<br>100<br>200 | Status Burung 1: 1<br>Ketinggian: 181.09<br>Status Burung 2: 0<br>Ketinggian: 181.09 |
+
+> [!NOTE]
+> [View the solution](problem4.cpp)
